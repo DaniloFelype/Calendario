@@ -1,0 +1,15 @@
+th{
+    color: blueviolet;
+}
+td{
+    width: 25px;
+    background-color: blueviolet;
+}
+body
+#feriado{
+    color: red;
+}
+table, td, th, tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
